@@ -1,0 +1,36 @@
+.btn
+{
+    background-image: linear-gradient(to right,#a517ba,#5f1782);
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+    font-family: sans-serif;
+    
+}
+table
+{
+  width: 80%;
+  margin-left: 100px; 
+  font-size: 25px;
+  color: white; 
+  text-align: center;
+}
+
+.update
+{
+    color: white;
+    font-size: 18px;
+}
+.update:hover{
+    color: rgb(255, 0, 140);
+}
+.delete
+{
+    color: white;
+    font-size: 18px;
+}
+.delete:hover{
+    color: tomato;
+}
+
